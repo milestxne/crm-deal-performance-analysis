@@ -26,3 +26,9 @@ Product and Sales Agent Match: Investigate whether certain sales agents perform 
 Deal Performance Over Time: Analyze trends in deal performance (won vs. lost) over time to identify any seasonal or cyclical patterns in the dataset.
 
 Sales Agent Performance Trends: Track the performance of sales agents over different time periods (monthly) to evaluate consistency and improvements in sales activities.
+
+# Dashboard
+
+<img width="1280" alt="Screenshot 2025-01-30 at 10 14 44 PM" src="https://github.com/user-attachments/assets/41938d02-d17e-46bb-a1fb-06a9891eb756" />
+
+
