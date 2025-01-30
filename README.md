@@ -32,3 +32,6 @@ Sales Agent Performance Trends: Track the performance of sales agents over diffe
 <img width="1280" alt="Screenshot 2025-01-30 at 10 14 44 PM" src="https://github.com/user-attachments/assets/41938d02-d17e-46bb-a1fb-06a9891eb756" />
 
 
+- Interaction preview:
+  
+https://github.com/milestxne/crm-deal-performance-analysis/blob/main/Deal%20Performance%20Dashboard/Screen%20Recording%202025-01-30%20at%2010.32.11%20PM.mov
